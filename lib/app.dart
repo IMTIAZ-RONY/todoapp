@@ -185,7 +185,7 @@ class TodoApp extends StatelessWidget {
         ),
 
       ),
-      themeMode: ThemeMode.light,
+      themeMode: ThemeMode.light,//light
 
 
     );
